@@ -1,4 +1,4 @@
-Sure, here's an updated README with the tech stack and design system included:
+
 
 # Devs-nest-test-app Shopify App
 
